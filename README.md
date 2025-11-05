@@ -2,8 +2,8 @@
 ## EX 5 : TWO DIMENSIONALTRANSFORMATION 
 
 
-Name: Abhishek Kannan M
-Reg no: 212224040007
+Name: vishvanandh N
+Reg no: 212224240186
 
 **AIM**
 
